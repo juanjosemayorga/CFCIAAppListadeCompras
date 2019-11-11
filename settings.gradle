@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='CFCIA App Lista de Compras'
